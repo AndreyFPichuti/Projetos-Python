@@ -11,4 +11,4 @@ Sistema de Registro: esse eu peguei a sugestão com o ChatGPT de projetos para i
 
 Mini-pokedex: consumindo uma API de pokémon do site https://pokeapi.co/. O projeto consiste em você digitar um nome de um pokemon, e o programa irá retornar algumas informações sobre ele. 
 
-Previsão de tempo: consumindo a API OpenWeather, com a possibildiade de você entrar com o nome de uma cidade, e assim retornar a sua temperatura em média. Também tem o arquivo temp.py que gera um gráfico das últimas 10 cidades que você inseriu, pois ficam salvas no banco de dados
+Previsão de tempo: consumindo a API OpenWeather https://openweathermap.org, com a possibildiade de você entrar com o nome de uma cidade, e assim retornar a sua temperatura em média. Também tem o arquivo temp.py que gera um gráfico das últimas 10 cidades que você inseriu, pois ficam salvas no banco de dados
