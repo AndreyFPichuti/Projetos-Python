@@ -8,3 +8,5 @@ Jogo da Advinhação: https://roadmap.sh/projects/number-guessing-game
 Conversor de unidades: https://roadmap.sh/projects/unit-converter, fiz baseado no site da roadmap, porém ao invés de utilizar HTML/CSS, usei uma framework do Python, o streamlit
 
 Sistema de Registro: esse eu peguei a sugestão com o ChatGPT de projetos para inciantes em Python.
+
+Mini-pokedex: consumindo uma API de pokémon do site https://pokeapi.co/. O projeto consiste em você digitar um nome de um pokemon, e o programa irá retornar algumas informações sobre ele. 
