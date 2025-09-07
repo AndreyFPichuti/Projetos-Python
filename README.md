@@ -19,8 +19,11 @@ Scraper E-commerce: utilizei a biblioteca Selenium do Python para realizar web s
 essas informações no arquivo dashboards.py com as bibliotecas dash e plotly.express. Basicamente, fiz quatro gráficos:
 
 1 - Histograma de preços
+
 2 - Boxplot dos preços 
+
 3 - Os 10 produtos mais caros
+
 4 - Os 10 produtos melhor avaliados
 
 Me inspirei nesse link: https://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/
