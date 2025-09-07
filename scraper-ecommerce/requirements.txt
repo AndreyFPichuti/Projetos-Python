@@ -1,0 +1,19 @@
+1 - Ter o Python instalado, e alguma IDE para executá-lo
+2 - Usar as seguintes bibliotecas:
+
+selenium
+pandas
+concurrent
+csv
+dotenv
+os
+dash
+plotly
+
+OBS: caso alguma biblioteca não esteja instalada, basta usar pip install 'nome da biblioteca' no terminal do projeto
+
+3 - Instalar um webdriver, no meu caso utilizei o chromedriver, depois basta especificar o caminho aonde você instalou.
+No meu caso, baixei esse: https://googlechromelabs.github.io/chrome-for-testing/
+
+
+
